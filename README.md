@@ -1,6 +1,6 @@
-👋 Hey there! I'm Anirudh vats, a passionate javascript developer with a knack for crafting elegant solutions.
+👋 Hey there! I'm Anirudh vats, a passionate Javascript developer with a knack for crafting elegant solutions.
 
-🚀 I'm currently exploring the depths of javscript to build robust web applications that not only meet but exceed client expectations.
+🚀 I'm currently exploring the depths of Javacript to build robust web applications that not only meet but exceed client expectations.
 
 💻 In my codebase, you'll find a blend of clean architecture, efficient database design, and meticulous attention to detail.
 

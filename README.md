@@ -11,3 +11,6 @@
 🔗 GitHub: AnirudhVats975.github.io.github.io
 
 Happy coding! 🚀
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)

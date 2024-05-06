@@ -13,6 +13,4 @@
 Happy coding! 🚀
 
 
-![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnirudhVats975&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhVats975)](https://github.com/AnirudhVats975/github-readme-stats)
